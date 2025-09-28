@@ -1,6 +1,9 @@
 # Insurance-Charges-Predicting
 This project predicts medical insurance charges using client attributes such as age, BMI, children, smoking status, and region. Regression models (Linear, Random Forest, XGBoost) were trained, with XGBoost achieving the best accuracy. Visualizations and a Streamlit app provide an interactive, modern UI for predictions.
 
+[![Streamlit Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)](https://insurance-charges-predicting-epc42axmtwzapp5wurzckky.streamlit.app/)
+
+
 # **📑 Project Report: Predicting Insurance Charges Using Machine Learning**
 
 # **1. Objective**
